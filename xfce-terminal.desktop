@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Xfce Terminal
+Exec=xfce4-terminal
+Icon=org.xfce.terminal
+Terminal=false
